@@ -1,4 +1,4 @@
-# Jonathan Robinson Aristizabal Aristizabal
+# Jonathan Robinson Aristizabal Soto
 
 **Full Stack Developer | Desarrollo Web y Móvil | React | Laravel | PHP | JavaScript | MySQL | Tailwind CSS | Git & GitHub | Infraestructura y Redes**
 
