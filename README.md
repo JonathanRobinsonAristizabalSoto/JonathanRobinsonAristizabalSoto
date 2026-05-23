@@ -88,6 +88,8 @@ Mi enfoque combina desarrollo frontend y backend para construir soluciones funci
 
 ## GitHub Stats
 
+[Perfil en GitHub](https://github.com/JonathanRobinsonAristizabalSoto)  
+
 ![Contribuciones de GitHub](https://ghchart.rshah.org/jonathanrobinsonaristizabalsoto)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jonathanrobinsonaristizabalsoto&theme=tokyonight&hide_border=true)
