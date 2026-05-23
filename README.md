@@ -87,15 +87,13 @@ Mi enfoque combina desarrollo frontend y backend para construir soluciones funci
 ---
 
 ## GitHub Stats
+![GitHub profile](https://img.shields.io/badge/GitHub-JonathanRobinsonAristizabalSoto-181717?logo=github)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrobinsonaristizabalsoto&show_icons=true&theme=tokyonight&hide_border=true)
+![Contribuciones de GitHub](https://ghchart.rshah.org/jonathanrobinsonaristizabalsoto)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrobinsonaristizabalsoto&layout=compact&theme=tokyonight&hide_border=true)
+Perfil en GitHub: https://github.com/JonathanRobinsonAristizabalSoto
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jonathanrobinsonaristizabalsoto&theme=tokyonight&hide_border=true)
-
-[Perfil en GitHub](https://github.com/JonathanRobinsonAristizabalSoto)  
-Si las imágenes no cargan, visita el enlace de arriba.
+Si las estadísticas externas no cargan, el servicio remoto puede estar temporalmente caído.
 
 ---
 
